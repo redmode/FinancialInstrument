@@ -25,9 +25,4 @@ Collate: 'buildHierarchy.R' 'buildSpread.R' 'build_symbols.R'
         'FindCommonInstrumentAttributes.R' 'Notionalize.R'
         'update_instruments.iShares.R'
         'update_instruments.morningstar.R' 'CompareInstrumentFiles.R'
-Repository: R-Forge
-Repository/R-Forge/Project: blotter
-Repository/R-Forge/Revision: 1619
-Repository/R-Forge/DateTimeStamp: 2014-07-08 13:50:56
-Date/Publication: 2014-07-08 13:50:56
-Packaged: 2014-07-08 14:15:27 UTC; rforge
+
